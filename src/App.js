@@ -6,10 +6,10 @@ import { useState } from "react"; //importamos useState
 function App() {
 
   const initialContacto = [
-    { nombre: "Sebastián", apellido: "Fiorini", direccion: "piccot 22 2B", ciudad: "Malaga", codigo: 29007, telefono: "691779468" },
-    { nombre: "Mariela", apellido: "Dobler", direccion: "Blanch 22 2B", ciudad: "Torremolinos", codigo: 29620, telefono: "988770048" },
-    { nombre: "Maria", apellido: "perez", direccion: "Av Benalmadena 4B", ciudad: "Benalmadena", codigo: 29560, telefono: "5671331465" },
-    { nombre: "Maria", apellido: "Fiori", direccion: "Av Benalmadena 4C", ciudad: "Benalmadena", codigo: 29560, telefono: "5671331995" }
+    { nombre: "Sebastián", apellido: "Fiorini", direccion: "calle 22 2B", ciudad: "Malaga", codigo: 29007, telefono: "12779468" },
+    { nombre: "Mariela", apellido: "Matias", direccion: "Blanch 22 2B", ciudad: "Torremolinos", codigo: 29620, telefono: "12779468" },
+    { nombre: "Maria", apellido: "perez", direccion: "Av Benalmadena 4B", ciudad: "Benalmadena", codigo: 29560, telefono: "12779468" },
+    { nombre: "Maria", apellido: "Fiori", direccion: "Av Málaga 4C", ciudad: "Benalmadena", codigo: 29560, telefono: "12779468" }
 
   ];
 
